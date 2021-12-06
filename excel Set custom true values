@@ -5,3 +5,4 @@ survey_subset = pd.read_excel("fcc_survey_yn_data.xlsx",dtype={"HasDebt": bool, 
 
 # View the data
 print(survey_subset.head())
+#
